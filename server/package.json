@@ -13,5 +13,5 @@
   "engines": {
     "node": "8.x.x"
   },
-  "customConnectorsFolder": "/usr/share/powwowstudio/dataStore/custom-connectors"
+  "customConnectorsFolder": "/usr/share/powwowstudio/custom-connectors"
 }

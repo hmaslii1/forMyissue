@@ -28,6 +28,12 @@
       "sourceScreenId": "settings",
       "sourceAppId": "AcmeTransferRequests",
       "preventAutoDismiss": true
+    },
+    {
+      "id": "homeiconclassic",
+      "name": "HomeIconClassic",
+      "sourceScreenId": "Home_homeiconclassic",
+      "sourceAppId": "universaltemplates"
     }
   ],
   "startScreen": "login"
